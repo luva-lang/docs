@@ -5,4 +5,14 @@
          <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://luva-lang.github.io/docs/luva-build-tool/</loc>
+         <lastmod>2022-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luva-lang.github.io/docs/luvascript-compiler/</loc>
+         <lastmod>2022-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
